@@ -18,6 +18,6 @@ O principal objetivo do projeto foi aplicar os conceitos fundamentais da program
 
 ## 🚀 Como Executar
 
-1.  Clone este repositório: ``
+1.  Clone este repositório: `https://github.com/mateussouzac/tetris-csharp.git`
 2.  Abra a solução (`.sln`) no Visual Studio.
 3.  Compile e execute o projeto (pressionando F5 ou o botão "Start").
